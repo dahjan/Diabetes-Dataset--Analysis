@@ -1,6 +1,7 @@
 # Diabetes Dataset - Detailed Analysis
 
 This repository contains a detailed analysis of the Pima Indians Diabetes Database found on kaggle. Both predictive and descriptive analyses were performed, using various algorithms and information about Diabetes found in papers online.
+The document will be updated frequently, in order to implement new algorithms or ideas; thus, it can be viewed as a proof of principle of sorts.
 
 ## Content
 - `diabetes.csv` files contains 
