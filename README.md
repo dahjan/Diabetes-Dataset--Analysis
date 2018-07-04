@@ -18,6 +18,6 @@ The document will be updated frequently, in order to implement new algorithms or
 To see the notebooks, run `jupyter notebook` from the root directory of the project.
 
 
-## Acknowledgemengts
+## Acknowledgements
 
 Special  thanks to the Takeda Data Challenge, which took place in June 2018; it inspired me to work on this dataset extensively, and helped me greatly in finding my strenghts and weaknesses.
