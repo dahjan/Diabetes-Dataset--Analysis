@@ -10,7 +10,7 @@ The document will be updated frequently, in order to implement new algorithms or
   - Data from 768 female patients
 - `*.ipynb` files are Jupyter notebooks that document the research
 - `utils.py` contains all functions used for analysis
-- `requirements.txt` used to create a conda environment
+- `environment.yml` used to create a conda environment
 
 ## Jupyter notebooks
 - *Report*: main analysis and discussion
